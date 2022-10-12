@@ -60,6 +60,7 @@ void merge_sort(int a[],int low,int high)
 
 				merge(a,low,high);
 			}
+		int high=0;
 }
 int main()
 {
